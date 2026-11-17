@@ -1,0 +1,23 @@
+<svg id="Grupo_100885" data-name="Grupo 100885" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75.999" height="75.976" viewBox="0 0 75.999 75.976">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="1" gradientTransform="matrix(1, 0, 0, -0.999, 0, 1.876)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff101"/>
+      <stop offset="1" stop-color="#e6da1a"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="-7.082" y1="1.227" x2="-7.028" y2="1.227" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cfdc5e"/>
+      <stop offset="1" stop-color="#bfca65"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-7.534" y1="1.929" x2="-7.477" y2="1.929" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="-4.724" y1="0.871" x2="-4.689" y2="0.871" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d91963"/>
+      <stop offset="1" stop-color="#981245"/>
+    </linearGradient>
+  </defs>
+  <path id="Trazado_161386" data-name="Trazado 161386" d="M39.744,1.71a37.988,37.988,0,1,1-37.978,38A37.988,37.988,0,0,1,39.744,1.71Z" transform="translate(-1.743 -1.71)" fill-rule="evenodd" fill="url(#radial-gradient)"/>
+  <path id="Trazado_161387" data-name="Trazado 161387" d="M136.009,106.79a135.439,135.439,0,0,0-12.264,10.024c-8.524,8.012-13.422,14.276-18.87,20.37A37.988,37.988,0,0,0,136.009,106.79Z" transform="translate(-60.666 -61.759)" fill="#88a03e" fill-rule="evenodd"/>
+  <path id="Trazado_161388" data-name="Trazado 161388" d="M26.657,16.6,1.788,44.451a37.64,37.64,0,0,0,3,13.175L37.479,7.07,26.657,16.6" transform="translate(-1.756 -4.773)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+  <path id="Trazado_161389" data-name="Trazado 161389" d="M1.973,51.065a39.038,39.038,0,0,0-.228,6.075L26.615,29.309,1.992,51.065" transform="translate(-1.713 -17.482)" fill="#88a03e" fill-rule="evenodd"/>
+  <path id="Trazado_161390" data-name="Trazado 161390" d="M2.5,35.142,35.644,2.375A37.988,37.988,0,0,0,2.5,35.142Z" transform="translate(-2.161 -2.09)" fill-rule="evenodd" fill="url(#linear-gradient-2)"/>
+  <path id="Trazado_161391" data-name="Trazado 161391" d="M35.447,2.009,2.357,34.776a2.406,2.406,0,0,1-.038.531L27,13.551l10.8-9.53L5.091,54.6c.3.722.645,1.443,1.006,2.145l.228.437c.342.665.7,1.329,1.082,1.955l.057.114c.417.684.854,1.367,1.329,2.031l.209.3,1.272,1.69.209.266c.513.627,1.044,1.253,1.595,1.86l.038.038c.532.57,1.082,1.139,1.652,1.67l.247.247a45.68,45.68,0,0,0,3.778,3.114l.19.133c.665.474,1.329.911,2.012,1.329l.019.038a36.928,36.928,0,0,0,4.537,2.392l.1.057a42.286,42.286,0,0,0,4.86,1.766l.076.019a37.134,37.134,0,0,0,7.9,1.367c.114-21.832,7.631-49.075,19.212-72.008a38.234,38.234,0,0,0-21.244-3.55" transform="translate(-2.059 -1.724)" fill-rule="evenodd" fill="url(#linear-gradient-3)"/>
+</svg>

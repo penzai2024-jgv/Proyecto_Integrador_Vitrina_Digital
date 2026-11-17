@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="134" height="132" viewBox="0 0 134 132">
+  <defs>
+    <filter id="Rectángulo_32694" x="0" y="0" width="134" height="132" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_102176" data-name="Grupo 102176" transform="translate(-578 -1402)">
+    <g transform="matrix(1, 0, 0, 1, 578, 1402)" filter="url(#Rectángulo_32694)">
+      <rect id="Rectángulo_32694-2" data-name="Rectángulo 32694" width="128" height="126" rx="10" transform="translate(3 1)" fill="#fff"/>
+    </g>
+    <g id="Grupo_102139" data-name="Grupo 102139" transform="translate(630 1424)">
+      <path id="Trazado_163378" data-name="Trazado 163378" d="M1123.659,197.233h-9.542V115.867h13.749v81.366Z" transform="translate(-1112.637 -114.387)" fill="#fa4848"/>
+      <path id="Trazado_163379" data-name="Trazado 163379" d="M1166.332,214.046a12.588,12.588,0,0,1,0,25.176Z" transform="translate(-1149.911 -184.472)" fill="#ff3f62"/>
+      <path id="Trazado_163380" data-name="Trazado 163380" d="M1114.117,115.867h5.921v81.366h-5.921Z" transform="translate(-1112.637 -114.387)" fill="#d66f6e"/>
+      <path id="Trazado_163381" data-name="Trazado 163381" d="M1172.253,215.525a12.538,12.538,0,0,0-5.921-1.479v25.176a12.535,12.535,0,0,0,5.921-1.479Z" transform="translate(-1149.911 -184.472)" fill="#c70024"/>
+      <path id="Trazado_163382" data-name="Trazado 163382" d="M1108.944,110.694V195.02h18.189V110.694h-18.189Zm15.229,81.366H1111.9V113.655h12.268Z" transform="translate(-1108.944 -110.694)"/>
+      <path id="Trazado_163383" data-name="Trazado 163383" d="M1179.432,211.341l-.927,2.812a11.113,11.113,0,0,1,0,21.1l.927,2.811a14.073,14.073,0,0,0,0-26.724Z" transform="translate(-1158.6 -182.541)"/>
+      <path id="Trazado_163384" data-name="Trazado 163384" d="M1182.146,247.609l-1.911-2.26a6.245,6.245,0,0,0,1.66-2.2l2.7,1.21A9.217,9.217,0,0,1,1182.146,247.609Zm3.126-5.507-2.923-.474a6.219,6.219,0,0,0-.074-2.374l2.885-.66a9.146,9.146,0,0,1,.23,2.039A9.263,9.263,0,0,1,1185.272,242.1Zm-3.548-4.333a6.2,6.2,0,0,0-1.489-1.852l1.911-2.261a9.151,9.151,0,0,1,2.2,2.734Z" transform="translate(-1159.835 -198.47)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
